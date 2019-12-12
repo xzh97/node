@@ -1,1 +1,1 @@
-This is a node practice repository
+#这个仓库用来保存  自己写的各式各样的 **js脚本**
